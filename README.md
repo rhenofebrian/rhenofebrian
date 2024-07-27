@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML, CSS, and JavaScript
 - 💞️ I’m looking to collaborate on...
-- 📫 How to reach me? dont ask me too much, just follow me on instagram @rhenofbrn or connect me on linkedin, just type Rheno Febrian Cholistyo, if you're too lazy, here you are (https://www.linkedin.com/in/rhenofebrian/)
+- 📫 How to reach me?follow me on instagram @rhenofbrn or connect me on linkedin
 
 - ⚡ Fun fact: playing guitar so much fun than coding right!
 
